@@ -31,4 +31,4 @@
 | `>>` | Redirects output to a file, **appends** to the bottom |
 
 ## Screenshot
-![Linux Fundamentals Pt1 complete](screenshots-day-02-linux-fundamentals-1.png)
+![Linux Fundamentals Pt1 complete](screenshots/day-02-linux-fundamentals-1.png)

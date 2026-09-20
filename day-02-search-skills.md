@@ -12,4 +12,4 @@
 - Use it for: quick triage + threat intel on new/suspicious files and links.
 
 ## Screenshot
-![Search Skills complete](../screenshots/day-02-search-skills.png)
+![Search Skills complete](screenshots/day-02-search-skills.png)
